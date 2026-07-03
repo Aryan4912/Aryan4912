@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-- 🎓 Second-year **B.Tech in AI/ML** at Vishwakarma Institute of Technology (VIT), Pune — CGPA **9.17/10**
+- 🎓 Third-year **B.Tech in AI/ML** at Vishwakarma Institute of Technology (VIT), Pune — CGPA **9.17/10**
 - 📄 Published researcher — my paper on **CBAM-Enhanced InceptionV3 for Brain Tumor Classification** (99.39% accuracy) is indexed on **IEEE Xplore**
 - 🧠 I like building things that sit at the intersection of **deep learning, data, and deployable software** — not just notebooks
 - 🏆 1st Runner-Up at **DecentraHack Hackathon** · Top 150/900+ teams at **ISIH 2025**
