@@ -48,6 +48,13 @@
   <img src="https://raw.githubusercontent.com/Aryan4912/Aryan4912/projects/projects.svg" width="100%">
 </a>
 
+<br/><br/>
+
+[![NeuroDetect](https://img.shields.io/badge/View-NeuroDetect-0A101F?style=flat-square&logo=github&logoColor=2E9EF7)](https://github.com/Aryan4912/NeuroDetect)
+[![Liquidity Gap Detector](https://img.shields.io/badge/View-Liquidity%20Gap%20Detector-0A101F?style=flat-square&logo=github&logoColor=2E9EF7)](https://github.com/Aryan4912/Liquidity-Gap-Detector)
+[![Electricity Grievance System](https://img.shields.io/badge/View-Electricity%20Grievance%20System-0A101F?style=flat-square&logo=github&logoColor=2E9EF7)](https://github.com/Aryan4912/Electricity_Grievance_System)
+[![Strands of Strength](https://img.shields.io/badge/View-Strands%20of%20Strength-0A101F?style=flat-square&logo=github&logoColor=2E9EF7)](https://github.com/Aryan4912/strands_of_strength.github.io)
+
 </div>
 
 <br/>
