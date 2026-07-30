@@ -1,0 +1,32 @@
+<svg width="920" height="360" viewBox="0 0 920 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="920" height="360" fill="#0a0e17"/>
+  
+  <g transform="translate(20,20)">
+    <rect width="430" height="150" rx="10" fill="#0d1b2a" stroke="#1B6FC9" stroke-width="1"/>
+    <text x="18" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#d9ecff">NeuroDetect</text>
+    <text x="412" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#2E9EF7" text-anchor="end">Medical AI · IEEE Published</text>
+    <text x="18" y="54" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">CBAM-enhanced InceptionV3 brain tumor classifier</text><text x="18" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">(4-class MRI), 99.39% accuracy, deployed as a Flask</text>
+    <text x="18" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1B6FC9">PyTorch   ·   Flask   ·   OpenCV</text>
+  </g>
+  <g transform="translate(470,20)">
+    <rect width="430" height="150" rx="10" fill="#0d1b2a" stroke="#1B6FC9" stroke-width="1"/>
+    <text x="18" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#d9ecff">Liquidity Gap Detector</text>
+    <text x="412" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#2E9EF7" text-anchor="end">FinTech · Live</text>
+    <text x="18" y="54" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">Real-time order-book analytics using Bi-GRU,</text><text x="18" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">Bi-LSTM, CNN-LSTM-CBAM and TCN with frequency-domain</text>
+    <text x="18" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1B6FC9">PyTorch   ·   Flask   ·   Plotly</text>
+  </g>
+  <g transform="translate(20,190)">
+    <rect width="430" height="150" rx="10" fill="#0d1b2a" stroke="#1B6FC9" stroke-width="1"/>
+    <text x="18" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#d9ecff">Electricity Grievance System</text>
+    <text x="412" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#2E9EF7" text-anchor="end">GovTech · Live</text>
+    <text x="18" y="54" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">Role-based grievance management platform on a</text><text x="18" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">3NF-normalized MySQL schema with stored procedures</text>
+    <text x="18" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1B6FC9">Flask   ·   MySQL</text>
+  </g>
+  <g transform="translate(470,190)">
+    <rect width="430" height="150" rx="10" fill="#0d1b2a" stroke="#1B6FC9" stroke-width="1"/>
+    <text x="18" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#d9ecff">Strands of Strength</text>
+    <text x="412" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#2E9EF7" text-anchor="end">Social Impact · Live</text>
+    <text x="18" y="54" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">Platform connecting hair donors with manufacturers</text><text x="18" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb7cf">to craft wigs for cancer patients.</text>
+    <text x="18" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1B6FC9">HTML   ·   CSS   ·   JavaScript</text>
+  </g>
+</svg>
