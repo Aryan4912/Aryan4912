@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NeuroDetect",
+    "tag": "Medical AI \u00b7 IEEE Published",
+    "description": "CBAM-enhanced InceptionV3 brain tumor classifier (4-class MRI), 99.39% accuracy, deployed as a Flask app.",
+    "tech": ["PyTorch", "Flask", "OpenCV"]
+  },
+  {
+    "name": "Liquidity Gap Detector",
+    "tag": "FinTech \u00b7 Live",
+    "description": "Real-time order-book analytics using Bi-GRU, Bi-LSTM, CNN-LSTM-CBAM and TCN with frequency-domain regime routing.",
+    "tech": ["PyTorch", "Flask", "Plotly"]
+  },
+  {
+    "name": "Electricity Grievance System",
+    "tag": "GovTech \u00b7 Live",
+    "description": "Role-based grievance management platform on a 3NF-normalized MySQL schema with stored procedures and triggers.",
+    "tech": ["Flask", "MySQL"]
+  },
+  {
+    "name": "Strands of Strength",
+    "tag": "Social Impact \u00b7 Live",
+    "description": "Platform connecting hair donors with manufacturers to craft wigs for cancer patients.",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  }
+]
