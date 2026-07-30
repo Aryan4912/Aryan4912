@@ -22,7 +22,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan4912&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2E9EF7&icon_color=1B6FC9&text_color=d9ecff" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan4912&layout=compact&hide_border=true&bg_color=0d1117&title_color=2E9EF7&text_color=d9ecff" />
 
-<img src="https://streak-stats.demolab.com?user=Aryan4912&hide_border=true&background=0D1117&stroke=2E9EF7&ring=1B6FC9&fire=2E9EF7&currStreakLabel=2E9EF7&sideLabels=D9ECFF&dates=9CA9B8&currStreakNum=D9ECFF&sideNums=D9ECFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4912&hide_border=true&background=0D1117&stroke=2E9EF7&ring=1B6FC9&fire=2E9EF7&currStreakLabel=2E9EF7&sideLabels=D9ECFF&dates=9CA9B8&currStreakNum=D9ECFF&sideNums=D9ECFF" />
 
 </div>
 
